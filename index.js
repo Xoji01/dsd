@@ -1,5 +1,5 @@
 function p(total, brok) {
-  console.log(((brok*100)/total.toFixed(2)))
+ alert(((brok*100)/total.toFixed(2)))
   
 }  
 let cars=100000
